@@ -1,2 +1,3 @@
 # Rastreador-de-A-es
 Projeto realizado para acompanhar ações financeiras em tempo real, quedas, altas, etc...
+Um detalhe interessante é que podemos escolher as ações que queremos rastrear, basta escolher e inserir no código.
